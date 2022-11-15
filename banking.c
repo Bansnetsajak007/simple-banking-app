@@ -1,4 +1,4 @@
-//coding banking application
+// banking application
 
 #include<stdio.h>
 #include<stdlib.h>
